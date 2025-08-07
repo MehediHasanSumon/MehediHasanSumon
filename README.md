@@ -1,436 +1,247 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-  <div dir="auto">
-    <h3 dir="auto">
-      <a
-        id="user-content-hi-im-rajesh-kumar"
-        class="anchor"
-        aria-hidden="true"
-        tabindex="-1"
-        href="#hi-im-rajesh-kumar"
-        ><svg
-          class="octicon octicon-link"
-          viewBox="0 0 16 16"
-          version="1.1"
-          width="16"
-          height="16"
-          aria-hidden="true"
-        >
-          <path
-            d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-          ></path></svg
-      ></a>
-      Assalamuyalaikum, I'm Md Mehedi Hasan
-    </h3>
-    <p dir="auto">I am Full Stack Web Developer.</p>
-  </div>
+<div align="center">
 
-  <h3 dir="auto">
-    <a
-      id="user-content-languages"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#languages"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Languages
-  </h3>
-  <p dir="auto">
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/HTML.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/HTML.svg"
-        alt="html5"
-        data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/CSS.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/CSS.svg"
-        alt="css3"
-        data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/JavaScript.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/JavaScript.svg"
-        alt="javascript"
-        data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/php.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/php.svg"
-        alt="php"
-        data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/python.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/python.svg"
-        alt="python"
-        data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue"
-        style="max-width: 100%"
-    /></a>
-  </p>
-  <h3 dir="auto">
-    <a
-      id="user-content-frontend-framework-and-lib"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#frontend-framework-and-lib"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Frontend Framework and Library
-  </h3>
-  <p dir="auto">
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/bootstrap.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/bootstrap.svg"
-        alt="bootstrap"
-        data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Tailwind.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Tailwind.svg"
-        alt="tailwind"
-        data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/React.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/React.svg"
-        alt="reactjs"
-        data-canonical-src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Vuejs.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Vuejs.svg"
-        alt="vuejs"
-        data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Matirial.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/ff945599842dcbec89b3ad0ed02108d8e78d00bc/Matirial.svg"
-        alt="material-ui"
-        data-canonical-src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Material%20Design.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Material%20Design.svg"
-        alt="material-design"
-        data-canonical-src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&amp;logo=material%20design&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Redux%20Toolkit.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Redux%20Toolkit.svg"
-        alt="redux"
-        data-canonical-src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/React%20Router.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/React%20Router.svg"
-        alt="reactrouter"
-        data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-  </p>
-  <h3 dir="auto">
-    <a
-      id="user-content-backend-framework-and-lib"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#backend-framework-and-lib"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Backend Framework and Library
-  </h3>
-  <p dir="auto">
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Node.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Node.svg"
-        alt="nodejs"
-        data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Express.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Express.svg"
-        alt="expressjs"
-        data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Laravel.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Laravel.svg"
-        alt="laravel"
-        data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Django.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Django.svg"
-        alt="django"
-        data-canonical-src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=green"
-        style="max-width: 100%"
-    /></a>
-  </p>
-  <h3 dir="auto">
-    <a
-      id="user-content-database"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#database"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Database
-  </h3>
-  <p dir="auto">
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/mysql.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/mysql.svg"
-        alt="mysql"
-        data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/MonggoDB.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/MonggoDB.svg"
-        alt="mongodb"
-        data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/SQLIte.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/SQLIte.svg"
-        alt="sqlite"
-        data-canonical-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-  </p>
-  <h3 dir="auto">
-    <a
-      id="user-content-other"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#other"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Other
-  </h3>
-  <p dir="auto">
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Firbase.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Firbase.svg"
-        alt="firebase"
-        data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Wordpress.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Wordpress.svg"
-        alt="wordpress"
-        data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Digital%20Oces.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Digital%20Oces.svg"
-        alt="digitalocean"
-        data-canonical-src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&amp;logo=DigitalOcean&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      href="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Postman.svg"
-      ><img
-        src="https://raw.githubusercontent.com/MehediHasanSumon/public-image/fcb21f6bdb823b9e9b873b5bc330d007b6ddc4a6/Postman.svg"
-        alt="postman"
-        data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white"
-        style="max-width: 100%"
-    /></a>
-  </p>
+# 👋 Assalamu Alaikum! I'm Md Mehedi Hasan
 
-  <h2 dir="auto">
-    <a
-      id="user-content-lets-connect"
-      class="anchor"
-      aria-hidden="true"
-      tabindex="-1"
-      href="#lets-connect"
-      ><svg
-        class="octicon octicon-link"
-        viewBox="0 0 16 16"
-        version="1.1"
-        width="16"
-        height="16"
-        aria-hidden="true"
-      >
-        <path
-          d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-        ></path></svg></a
-    >Let's Connect
-  </h2>
-  <p align="left" dir="auto">
-    <a href="https://twitter.com/IamMSUMON" rel="nofollow"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="geekyshow1"
-        height="30"
-        width="40"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.linkedin.com/in/MehediHasanSumon" rel="nofollow"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="irenicraj"
-        height="30"
-        width="40"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.facebook.com/MehediHSum" rel="nofollow"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="geekyshow"
-        height="30"
-        width="40"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.instagram.com/MehediHSum" rel="nofollow"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="geekyshow1"
-        height="30"
-        width="40"
-        style="max-width: 100%"
-    /></a>
-  </p>
-</article>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MehediHasanSumon&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/MehediHasanSumon)
+[![GitHub Followers](https://img.shields.io/github/followers/MehediHasanSumon?label=Followers&style=for-the-badge&color=36BCF7&labelColor=black)](https://github.com/MehediHasanSumon)
+[![GitHub Stars](https://img.shields.io/github/stars/MehediHasanSumon?label=Stars&style=for-the-badge&color=ffc83d&labelColor=black)](https://github.com/MehediHasanSumon)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MehediHasanSumon/MehediHasanSumon/main/developer.gif">
+
+### 🌟 About Me
+
+```yaml
+name: Md Mehedi Hasan
+role: Full-Stack Web Developer
+location: Bangladesh 🇧🇩
+education: Computer Science & Engineering
+motto: "Clean Code, Scalable Solutions, Innovative Thinking"
+current_focus: Building amazing web experiences
+fun_fact: I debug with print statements and I'm not ashamed! 😄
+```
+
+> *"If you think you lost everything, then remember: **you haven't lost Allah!***"  
+> — A quote that inspires me to stay resilient and keep moving forward.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,sass" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,php,python,mysql,mongodb,postgresql,redis" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,docker,aws,vercel,netlify,postman" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehediHasanSumon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasanSumon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediHasanSumon&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehediHasanSumon&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B35&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MehediHasanSumon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 🎓 Education & Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Education
+**Bachelor of Science**  
+*Computer Science and Engineering*  
+📍 BGIFT Institute of Science & Technology
+
+### 🌟 Core Competencies
+- 🔥 Full-Stack Development
+- 🎨 UI/UX Design Implementation  
+- 📊 Database Architecture
+- 🚀 Performance Optimization
+- 🔐 Security Best Practices
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Featured Projects
+
+**🍽️ Restaurant Management System**
+- Full-stack application with authentication
+- Order management & reporting system
+- Real-time updates & notifications
+
+**🏫 School Management System**  
+- Comprehensive academic management
+- Student, teacher & attendance tracking
+- Examination & grading system
+
+**💼 Portfolio Website**
+- Modern responsive design
+- Interactive animations
+- Performance optimized
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Development Activity
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  60.5%
+TypeScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  20.8%
+React        2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░  13.4%
+CSS          1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░   5.3%
+```
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+### 💻 Weekly Development Breakdown
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20)
+
+</div>
+
+---
+
+## 🌟 My Development Philosophy
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Development))
+    Quality
+      Clean Code
+      Best Practices
+      Documentation
+    Performance
+      Optimization
+      Scalability
+      Efficiency  
+    User Experience
+      Accessibility
+      Responsiveness
+      Intuitive Design
+    Innovation
+      Latest Tech
+      Creative Solutions
+      Continuous Learning
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+### 🌐 Find me around the web:
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MehediHasanSumon)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+### 💬 Open for:
+- 🚀 Collaboration on exciting projects
+- 💼 Freelance opportunities  
+- 🎯 Full-time positions
+- 🤝 Open source contributions
+- 💡 Innovative ideas discussion
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To:
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
+
+### ☕ Support My Work:
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourhandle)
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+### 🔥 Final Thoughts
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Md Mehedi Hasan";
+    this.skills = ["JavaScript", "React", "Node.js", "Python"];
+    this.motto = "Code with passion, debug with patience!";
+  }
+  
+  sayHi() {
+    console.log("Thanks for visiting my profile! Let's build something amazing together! 🚀");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
+```
+
+**May your code be bug-free and your coffee strong! ☕️✨**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
