@@ -2,10 +2,8 @@
 
 # 👋 Assalamu Alaikum! I'm Md Mehedi Hasan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
-<br/> 
-<br/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MehediHasanSumon&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/MehediHasanSumon)
